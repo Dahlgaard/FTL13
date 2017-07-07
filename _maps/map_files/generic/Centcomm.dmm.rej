@@ -1,0 +1,11 @@
+diff a/_maps/map_files/generic/Centcomm.dmm b/_maps/map_files/generic/Centcomm.dmm	(rejected hunks)
+@@ -14438,6 +14438,9 @@
+ 	dir = 5
+ 	},
+ /area/centcom/evac)
++"Mi" = (
++/turf/closed/wall/mineral/titanium/nodiagonal,
++/area/centcom/evac)
+ 
+ (1,1,1) = {"
+ aa
